@@ -28,6 +28,7 @@
 - [Excalidraw](https://excalidraw.com/) - create illustrations with a hand-drawn look and feel
 - [Photopea](https://www.photopea.com/) - edit photos online with ease without downloading software.
 - [Magic Mockups](https://magicmockups.com/) - generate free mockups for use on your websites or portfolios.
+- [3D Bay](https://clouddevs.com/3dbay/) - free-downloadable 3D images with no accreditations.
 
 ## Contributing to this list
 - If there are any useful resources not included here, do send a PR.
